@@ -1,4 +1,4 @@
-- 👋 Salam, Saya Adabi dari @koperasicgn
+- 👋 Salam, Saya Adabi dari @koperasicgn dari Kelantan, Malaysia
 - 👀 I’m interested in Web development dan sharing
 - 🌱 I’m currently learning Laravel 9
 - 💞️ I’m looking to collaborate on Point of Sales system running on Laravel 9
